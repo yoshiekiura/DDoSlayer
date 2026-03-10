@@ -238,17 +238,17 @@ Control Node (Coordinator)
 
 ```bash
 # Clone repository
-git clone https://github.com/blackhatethicalhacking/DDoSlayer.git
+git clone https://github.com/yoshiekiura/DDoSlayer.git
 cd DDoSlayer
 
 # Install dependencies
 pip3 install -r requirements.txt
 
 # Make executable
-chmod +x DDoSlayer_v3.0_ULTIMATE.py
+chmod +x DDoSlayer.py
 
 # Run the tool
-python3 DDoSlayer_v3.0_ULTIMATE.py
+python3 DDoSlayer.py
 ```
 
 ### Dependencies
