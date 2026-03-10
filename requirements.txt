@@ -1,0 +1,5 @@
+termcolor>=2.3.0
+rich>=13.7.0
+scapy>=2.5.0
+requests>=2.31.0
+dnspython>=2.4.2
